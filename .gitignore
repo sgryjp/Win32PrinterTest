@@ -16,3 +16,16 @@
 *.exe
 *.out
 *.app
+
+# Visual C++ related files and directories
+*.apt
+*.clw
+*.ncb
+*.opt
+*.plg
+*.sdf
+*.suo
+*.user
+Debug
+Release
+ipch
